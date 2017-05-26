@@ -1,17 +1,16 @@
-# like2sushi
+# like2iine
 ![icon](icon.png)
 
-ついたーのFav:star:がLike:heart:に変えられてしまったのでSushi:sushi:に戻すやつ
+Twitterのいいね:heart:をい稲:ear_of_rice:にするやつ
 
-See: https://twitter.com/mzyy94/status/661818637418762240
+## なにこれは…
+[ラブ米](http://love-kome.com/)に触発されて片手間に作ったやつです。ほとんど [mzyy94/like2sushi](https://github.com/mzyy94/like2sushi) の力。
 
-## お願い
-Twitter社は無慈悲にも事前通告なしで仕様変更をすることが多々あります。
-このプロジェクトも無慈悲な仕様変更の影響を受けるものの一つです。
-このプロジェクトを適用しても、「あれうごかねぇ」「なんだこれダメダメじゃん」「WTF!?」等つぶやきたくなるかもしれませんが、
-つぶやいた後で結構なので、[Issue](https://github.com/mzyy94/like2sushi/issues)に動かない問題点を分かる範囲でいいので投稿していただきたく思います。
-このプロジェクトはデスクトップ版Chromeでのみ動作確認をしています。
-Chrome以外のブラウザ（SafariやFirefoxやIE）では後述の ユーザースタイルシート拡張機能で適用する方法 で動作しているとTwitterで報告がありますが、真相はわかっておりません。
+Twitterの仕様変更とかで動かなくなったら mzyy94/like2sushi の方にIssue投げると本家の方が対応してくださるかもしれません（こっちはlike2sushiの修正に追従する感じになると思います）。
+
+以下本家の転載
+
+---
 
 ## 使い方
 
@@ -21,7 +20,7 @@ git cloneまたはダウンロードしましょう
 
 cloneまたはzipを解凍したらChromeの設定から拡張機能を開きます。
 
-Chromeのみ開けます (chrome://extensions/) 
+Chromeのみ開けます (chrome://extensions/)
 
 「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを読み込んでください。
 ファイルを更新したらリロードしてください。
